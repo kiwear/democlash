@@ -9,6 +9,10 @@ DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,compute-pipe.com
 DOMAIN-SUFFIX,update.argotunnel.com
+
+# DIY
+DOMAIN,noak.me
+DOMAIN-SUFFIX,noak.me
 DOMAIN-SUFFIX,speedtest.cn
 
 # 域名关键字匹配
@@ -146,10 +150,6 @@ DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
 DOMAIN-SUFFIX,zjcdn.com
-
-# DIY
-DOMAIN,noak.me
-DOMAIN-SUFFIX,noak.me
 
 # 向日葵
 DOMAIN-SUFFIX,oray.net

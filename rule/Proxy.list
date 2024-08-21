@@ -2,6 +2,17 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,1yunti.com
+DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,jichanggo.com
+DOMAIN-SUFFIX,haijiao.com
+
+# NAME: Speedtest
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-KEYWORD,speedtest
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100

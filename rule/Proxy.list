@@ -20,13 +20,6 @@ DOMAIN-SUFFIX,update.argotunnel.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
-# NAME: Speedtest
-DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,ooklaserver.net
-DOMAIN-SUFFIX,speed.cloudflare.com
-DOMAIN-SUFFIX,speed.dler.io
-DOMAIN-SUFFIX,speedtest.net
-
 DOMAIN,gw.sky-ip.net
 DOMAIN-SUFFIX,gw.sky-ip.net
 IP-CIDR,207.148.64.114/32,no-resolve

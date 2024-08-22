@@ -6,7 +6,6 @@
 # DIY
 DOMAIN,noak.me
 DOMAIN-SUFFIX,noak.me
-#DOMAIN-SUFFIX,speedtest.cn
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu

@@ -9,11 +9,11 @@ DOMAIN-SUFFIX,haijiao.com
 
 # > > Cloudflare
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflareaccess.com
-DOMAIN-SUFFIX,cloudflareclient.com
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,compute-pipe.com
-DOMAIN-SUFFIX,update.argotunnel.com
+#DOMAIN-SUFFIX,cloudflareaccess.com
+#DOMAIN-SUFFIX,cloudflareclient.com
+#DOMAIN-SUFFIX,cloudfront.net
+#DOMAIN-SUFFIX,compute-pipe.com
+#DOMAIN-SUFFIX,update.argotunnel.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100

@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,noak.me
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com
 
 # Alibaba
 DOMAIN-SUFFIX,1688.com

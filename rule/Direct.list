@@ -6,8 +6,6 @@
 # DIY
 DOMAIN,noak.me
 DOMAIN-SUFFIX,noak.me
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okx.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu

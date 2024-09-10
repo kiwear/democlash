@@ -8,7 +8,6 @@ DOMAIN,noak.me
 DOMAIN-SUFFIX,noak.me
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,baidu
 
 # Alibaba
 DOMAIN-SUFFIX,1688.com

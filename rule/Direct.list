@@ -8,6 +8,20 @@ DOMAIN,noak.me
 DOMAIN-SUFFIX,noak.me
 
 # 域名关键字匹配
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.com
+
+# 国内DNS
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,doh.pub
+IP-CIDR,202.101.224.69/32,no-resolve
+IP-CIDR,202.101.226.69/32,no-resolve
+IP-CIDR,119.29.29.29/32,no-resolve
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,223.6.6.6/32,no-resolve
+IP-CIDR,180.76.76.76/32,no-resolve
+IP-CIDR,114.114.114.114/32,no-resolve
+IP-CIDR,114.114.115.115/32,no-resolve
 
 # Alibaba
 DOMAIN-SUFFIX,1688.com

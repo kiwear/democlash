@@ -8,8 +8,6 @@ DOMAIN,noak.me
 DOMAIN-SUFFIX,noak.me
 
 # 域名关键字匹配
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okx.com
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com

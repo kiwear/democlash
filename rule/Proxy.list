@@ -29,6 +29,11 @@ DOMAIN-SUFFIX,googleapis.cn
 # 路过图床
 DOMAIN-SUFFIX,imgse.com
 
+#OKX
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com
+
 # 币安
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,bnbstatic.com

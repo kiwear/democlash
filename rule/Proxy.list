@@ -37,13 +37,13 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,imgse.com
 
 # OKX
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,oklink.com
-DOMAIN-SUFFIX,okx.com
+#DOMAIN-SUFFIX,okex.com
+#DOMAIN-SUFFIX,oklink.com
+#DOMAIN-SUFFIX,okx.com
 
 # 币安
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,bnbstatic.com
+#DOMAIN-SUFFIX,binance.com
+#DOMAIN-SUFFIX,bnbstatic.com
 
 # iptv直播源
 DOMAIN-SUFFIX,livednow.com

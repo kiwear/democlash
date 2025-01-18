@@ -227,16 +227,6 @@ PROCESS-NAME,Binance.exe
 PROCESS-NAME,Huobi.exe
 PROCESS-NAME,OKX.exe
 
-# 币安
-DOMAIN-SUFFIX,appsflayer.com
-DOMAIN-SUFFIX,binancecnt.com
-DOMAIN-SUFFIX,binancefuture.com
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,bnbzh.ac
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,saasexch.cc
-DOMAIN-SUFFIX,saasexch.com
-
 
 # > > Cloudflare
 DOMAIN-SUFFIX,cloudflare.com

@@ -1,4 +1,8 @@
 # 代理补充列表
+# 域名关键字匹配
+DOMAIN-KEYWORD,
+DOMAIN,
+IP-CIDR,
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
@@ -9,7 +13,6 @@ DOMAIN-SUFFIX,haijiao.com
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,investing.com
 DOMAIN-SUFFIX,onlyfans.com
-
 
 DOMAIN-SUFFIX,ave.ai
 DOMAIN-SUFFIX,axiom.trade
@@ -27,7 +30,6 @@ DOMAIN-SUFFIX,pump.fun
 DOMAIN-SUFFIX,rugcheck.xyz
 DOMAIN-SUFFIX,solscan.io
 DOMAIN-SUFFIX,solsniffer.com
-
 
 # NAME: Crypto
 # AUTHOR: blackmatrix7
@@ -241,30 +243,6 @@ PROCESS-NAME,OKX.exe
 
 # > > Cloudflare
 DOMAIN-SUFFIX,cloudflare.com
-
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,1e100
-
-DOMAIN,gw.sky-ip.net
-DOMAIN-SUFFIX,gw.sky-ip.net
-IP-CIDR,207.148.64.114/32,no-resolve
-DOMAIN-SUFFIX,emby.vault647.com
-
-#谷歌大陆节点代理
-DOMAIN-SUFFIX,gstatic.com
-
-#谷歌play
-DOMAIN-SUFFIX,googleapis.cn
-
-# 路过图床
-DOMAIN-SUFFIX,imgse.com
-
-# iptv直播源
-DOMAIN-SUFFIX,livednow.com
-
-# 423down
-DOMAIN-SUFFIX,423down.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google

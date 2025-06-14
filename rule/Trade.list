@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,htx.com
-DOMAIN-SUFFIX,huobi.com
-DOMAIN-SUFFIX,huobi.pro
+DOMAIN,binance.com
+DOMAIN,okx.com
+DOMAIN,htx.com
+DOMAIN,huobi.com
+DOMAIN,huobi.pro
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,htx
 DOMAIN-KEYWORD,okx

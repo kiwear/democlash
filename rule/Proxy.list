@@ -1,15 +1,13 @@
 # 代理补充列表
 # 域名关键字匹配
-#DOMAIN-KEYWORD,
-#DOMAIN,
-#IP-CIDR,
+# DOMAIN-KEYWORD,
+# DOMAIN,
+# IP-CIDR,
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,1yunti.com
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,jichanggo.com
-DOMAIN-SUFFIX,haijiao.com
 DOMAIN-SUFFIX,ipleak.net
-DOMAIN-SUFFIX,investing.com
 DOMAIN-SUFFIX,onlyfans.com

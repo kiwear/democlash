@@ -12,15 +12,18 @@ DOMAIN-SUFFIX,hyperfoundation.org
 DOMAIN-SUFFIX,hyperliquid.xyz
 DOMAIN-SUFFIX,hypurrscan.io
 DOMAIN-SUFFIX,pepe.com
+DOMAIN-SUFFIX,pepe.vip
 DOMAIN-SUFFIX,pump.fun
 DOMAIN-SUFFIX,rugcheck.xyz
 DOMAIN-SUFFIX,solscan.io
 DOMAIN-SUFFIX,solsniffer.com
 DOMAIN-SUFFIX,sidekick.fans
 DOMAIN-SUFFIX,chaininsight.vip
+DOMAIN-SUFFIX,upbit.com
+DOMAIN-SUFFIX,arkm.com
+DOMAIN-SUFFIX,mempool.space
 
 DOMAIN,binance.us
-DOMAIN-KEYWORD,pepe
 
 # NAME: Crypto
 # AUTHOR: blackmatrix7

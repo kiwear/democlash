@@ -6,6 +6,8 @@
 #DOMAIN-SUFFIX,
 # 域名关键字匹配
 #DOMAIN-KEYWORD,
+# ip匹配
+#IP-CIDR,
 
 # 国内DNS
 #DOMAIN-SUFFIX,dns.alidns.com

@@ -1,7 +1,9 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # MyList
+# 精准域名匹配
+#DOMAIN,
 # 域名后缀匹配
-# DIY
+#DOMAIN-SUFFIX,
 # 域名关键字匹配
 #DOMAIN-KEYWORD,
 

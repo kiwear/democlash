@@ -1,4 +1,4 @@
-# 代理补充列表
+                    # 代理补充列表
 # 精准域名匹配
 #DOMAIN,
 # 域名后缀匹配
@@ -43,4 +43,3 @@ DOMAIN-SUFFIX,scccc.top
 DOMAIN-SUFFIX,concrete.xyz
 DOMAIN-KEYWORD,broadcom
 DOMAIN-SUFFIX,broadcom.okta.com
-DOMAIN-SUFFIX,igoutu.cn

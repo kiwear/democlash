@@ -1,9 +1,7 @@
 {
-  "route": {
-    "final": "direct",
+  "version": 3,
     "rules": [
       {
-        "outbound": "proxy",
         "domain_suffix": [
           "qichiyu.com",
           "1yunti.com",
@@ -24,35 +22,9 @@
         ]
       },
       {
-        "outbound": "proxy",
         "domain_keyword": [
           "broadcom"
         ]
-      },
-      {
-        "outbound": "proxy",
-        "ip_cidr": [
-          "8.8.8.8/32",
-          "8.8.4.4/32",
-          "1.1.1.1/32",
-          "1.0.0.1/32",
-          "185.222.222.222/32",
-          "208.67.222.222/32",
-          "208.67.220.220/32"
-        ]
-      }
-    ]
-  },
-  "outbounds": [
-    {
-      "type": "direct",
-      "tag": "direct"
-    },
-    {
-      "type": "selector",
-      "tag": "proxy",
-      "outbounds": [
-        "your-real-proxy-tag"
       ]
     }
   ]

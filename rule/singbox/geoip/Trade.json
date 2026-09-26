@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "binance.com",
+        "okx.com",
+        "htx.com",
+        "huobi.com",
+        "huobi.pro"
+      ],
+      "domain_keyword": [
+        "binance",
+        "htx",
+        "huobi",
+        "okx"
+      ]
+    }
+  ]
+}

@@ -3,7 +3,9 @@ DOMAIN,okx.com
 DOMAIN,htx.com
 DOMAIN,huobi.com
 DOMAIN,huobi.pro
+DOMAIN,api.bybit.com
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,htx
 DOMAIN-KEYWORD,huobi
 DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,bybit
